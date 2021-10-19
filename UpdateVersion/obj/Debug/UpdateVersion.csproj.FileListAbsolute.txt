@@ -1,0 +1,549 @@
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\bin\Debug\UpdateVersion.exe
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\bin\Debug\UpdateVersion.pdb
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\obj\Debug\UpdateVersion.Form1.resources
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\obj\Debug\UpdateVersion.exe
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\obj\Debug\UpdateVersion.pdb
+F:\TECHNICAL\NVTHAO\TFS\RtcSoftWare\RTC\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\UpdateVersion\obj\Debug\BMS.frmUpdateVersion.resources
+D:\Project\SIMOTOMO\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\SIMOTOMO\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\TPA.Serial Interface.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\itextsharp.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraBars.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Office.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\DevExpress.Office.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\obj\Debug\BMS.frmUpdateVersion.resources
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\Andon\Line\2020_04_18\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\TPA.Serial Interface.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\itextsharp.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraBars.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Office.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\DevExpress.Office.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\bin\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\obj\Debug\BMS.frmUpdateVersion.resources
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\Andon\Line\2020-05-08\PM.Line\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.csprojResolveAssemblyReference.cache
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.Cache
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\Andon\Line\2020-05-13\PM.Line_09_05_2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\RTC\Line\13-05-2020\PM.Line_09_05_2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\obj\Debug\UpdateVersion.csprojResolveAssemblyReference.cache
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\RTC\Line\13-05-2020\PM.Line_19_05_2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.Cache
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\RTC\Sumitomo\2020-06-26\PM\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\PM\2020-07-21\along\PM\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\PM\2020-07-21\PM\UpdateVersion\obj\Debug\UpdateVersion.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.exe
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.exe
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\PM_05-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\PM_05-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\PM_05-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\PM_05-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\PM_05-08-2020\PM\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\PM_05-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\PM_05-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\PM_05-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\PM_05-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\PM_05-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\Project\Sumitomo\PM\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\Project\Sumitomo\PM\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\Project\Sumitomo\PM\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\Project\Sumitomo\PM\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\Sumitomo\PM\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\Project\Sumitomo\PM\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\Sumitomo\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\Sumitomo\PM\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\Sumitomo\PM\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\Project\Sumitomo\PM\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM-21-08-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-22-10-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\RTC\PM\SumitomoBackup-04-01-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\PDE106 DATA\Desktop\23_01_2021\SumitomoBackup-28-01-2021\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\obj\Debug\UpdateVersion.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\UpdateVersion\obj\Debug\UpdateVersion.pdb
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\bin\Debug\UpdateVersion.exe
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\bin\Debug\UpdateVersion.pdb
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.csproj.AssemblyReference.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.exe
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\bin\Debug\UpdateVersion.exe
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\bin\Debug\UpdateVersion.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.exe
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\UpdateVersion\obj\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\bin\Debug\UpdateVersion.exe.config
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\bin\Debug\UpdateVersion.exe
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\bin\Debug\UpdateVersion.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\obj\Debug\UpdateVersion.csproj.AssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\obj\Debug\BMS.UP.frmUpdateVersion.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\obj\Debug\UpdateVersion.Properties.Resources.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\obj\Debug\UpdateVersion.csproj.GenerateResource.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\obj\Debug\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\obj\Debug\UpdateVersion.exe
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\UpdateVersion\obj\Debug\UpdateVersion.pdb

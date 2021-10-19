@@ -1,0 +1,801 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevExpress.Xpf.PdfViewer.v13.2</name>
+    </assembly>
+    <members>
+        <member name="T:DevExpress.Xpf.PdfViewer.PdfCommandProvider">
+
+            <summary>
+                <para>Provides commands that correspond to end-user actions in a PDF Viewer.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfCommandProvider.#ctor">
+            <summary>
+                <para>Initializes a new instance of the PdfCommandProvider class with default settings.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.FindNextTextCommand">
+            <summary>
+                <para>Finds the next occurrence of the search criteria in a document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.FindPreviousTextCommand">
+            <summary>
+                <para>Finds the previous occurrence of the search criteria in a document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.HandToolCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.NextPageCommand">
+            <summary>
+                <para>Scrolls to the next page.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.OpenDocumentCommand">
+            <summary>
+                <para>Opens a PDF document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.PaginationCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.PreviousPageCommand">
+            <summary>
+                <para>Scrolls to the previous page.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.PrintDocumentCommand">
+            <summary>
+                <para>Prints the document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.ShowFindTextCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.ShowPropertiesCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.ZoomCommand">
+            <summary>
+                <para>Sets the specified zoom factor for the document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.ZoomInCommand">
+            <summary>
+                <para>Increases the zoom factor for the document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfCommandProvider.ZoomOutCommand">
+            <summary>
+                <para>Decreases the zoom factor for the document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="T:DevExpress.Xpf.PdfViewer.PdfViewerControl">
+
+            <summary>
+                <para>A control to display PDF files in WPF application without the need to install any third-party software on end user machines.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfViewerControl.#ctor">
+            <summary>
+                <para>Initializes a new instance of the PdfViewerControl class with default settings.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ActualBarsTemplate">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.ActualBarsTemplateProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ActualCommandProvider">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.ActualCommandProviderProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ActualViewer(System.Windows.DependencyObject)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.ActualViewerProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ActualZoomProvider">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.ActualZoomProviderProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.AllowCachePages">
+            <summary>
+                <para>Gets or sets whether to enable page caching. This is a dependency property.
+</para>
+            </summary>
+            <value><b>true</b> to enable page caching; otherwise, <b>false</b>.
+</value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.AllowCachePagesProperty">
+            <summary>
+                <para>Identifies the  dependency property.
+</para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.AllowCurrentPageHighlighting">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.AllowCurrentPageHighlightingProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.BarsTemplate">
+            <summary>
+                <para>Gets or sets the template that defines the presentation of bars. This is a dependency property.
+</para>
+            </summary>
+            <value>A <see cref="T:System.Windows.DataTemplate"/> object that defines the presentation of bars. 
+</value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.BarsTemplateProperty">
+            <summary>
+                <para>Identifies the  dependency property.
+</para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.CacheSize">
+            <summary>
+                <para>Gets or sets the number of pages that can be cached for the frame. This is a dependency property.
+</para>
+            </summary>
+            <value>The number of pages that can be cached for the frame.
+</value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.CacheSizeProperty">
+            <summary>
+                <para>Identifies the  dependency property.
+</para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.CommandBarStyle">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.CommandBarStyleProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.CommandProvider">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.CommandProviderProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.CurrentPageNumber">
+            <summary>
+                <para>Gets or sets the current page number. This is a dependency property.
+</para>
+            </summary>
+            <value>The current page number.
+</value>
+
+
+        </member>
+        <member name="E:DevExpress.Xpf.PdfViewer.PdfViewerControl.CurrentPageNumberChanged">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.CurrentPageNumberChangedEvent">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.CurrentPageNumberProperty">
+            <summary>
+                <para>Identifies the  dependency property.
+</para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.Document">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="E:DevExpress.Xpf.PdfViewer.PdfViewerControl.DocumentChanged">
+            <summary>
+                <para>Occurs when a PdfViewerControl control loads another PDF document.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.DocumentChangedEvent">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.DocumentProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfViewerControl.FindText(DevExpress.Xpf.PdfViewer.PdfTextSearchParameter)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="search">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.FindTextCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfViewerControl.GetActualViewer(System.Windows.DependencyObject)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="d">
+		 [To be supplied] 
+            </param>
+            <returns>A <see cref="T:DevExpress.Xpf.PdfViewer.PdfViewerControl"/> object.
+</returns>
+
+
+        </member>
+        <member name="E:DevExpress.Xpf.PdfViewer.PdfViewerControl.GetDocumentPassword">
+            <summary>
+                <para>Returns the security password settings of a protected document.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.GetDocumentPasswordEvent">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.HandToolCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.HighlightSearchTextColor">
+            <summary>
+                <para>Gets or sets the background color of the text that meets the search criteria.
+</para>
+            </summary>
+            <value>A <see cref="T:System.Drawing.Color"/> object.
+</value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.HighlightSearchTextColorProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.IsSearchControlVisible">
+            <summary>
+                <para>Gets or sets whether to show the PDF Viewer's search control. This is a dependency property.
+</para>
+            </summary>
+            <value><b>true</b> to show the search control; otherwise, <b>false</b>.
+</value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.IsSearchControlVisibleProperty">
+            <summary>
+                <para>Identifies the  dependency property.
+</para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfViewerControl.LoadDocument(System.IO.Stream)">
+            <summary>
+                <para>Loads the PDF document from the specified stream.
+</para>
+            </summary>
+            <param name="stream">
+		A Stream class descendant.
+
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfViewerControl.LoadDocument(System.String)">
+            <summary>
+                <para>Loads the PDF document from the specified path.
+</para>
+            </summary>
+            <param name="path">
+		A string specifying the path to the PDF document.
+
+            </param>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.NextPageCommand">
+            <summary>
+                <para>Scrolls to the next page.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.OpenDocumentCommand">
+            <summary>
+                <para>Opens a PDF document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.PageCount">
+            <summary>
+                <para>Gets the total number of pages currently displayed. This is a dependency property.
+</para>
+            </summary>
+            <value>The total number of pages.
+</value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.PageCountProperty">
+            <summary>
+                <para>Identifies the  dependency property.
+</para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.PagePadding">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.PagePaddingProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.PdfPresenterTemplate">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.PdfPresenterTemplateProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.PreviousPageCommand">
+            <summary>
+                <para>Scrolls to the previous page.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfViewerControl.Print(System.Drawing.Printing.PrinterSettings,System.Boolean)">
+            <summary>
+                <para>Prints the current document using the specified print settings.
+</para>
+            </summary>
+            <param name="printerSettings">
+		A <see cref="T:System.Drawing.Printing.PrinterSettings"/> object.
+
+            </param>
+            <param name="showPrintStatus">
+		<b>true</b>, to display a window showing the printing status; otherwise, <b>false</b>.
+
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfViewerControl.Print">
+            <summary>
+                <para>Prints the current document using the system default print settings.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.PrintDocumentCommand">
+            <summary>
+                <para>Prints the document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.RibbonTemplate">
+            <summary>
+                <para>Gets or sets the template that defines the presentation of the ribbon toolbar. This is a dependency property.
+</para>
+            </summary>
+            <value>A <see cref="T:System.Windows.DataTemplate"/> object that defines the presentation of the ribbon toolbar. 
+</value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.RibbonTemplateProperty">
+            <summary>
+                <para>Identifies the  dependency property.
+</para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Xpf.PdfViewer.PdfViewerControl.SetActualViewer(System.Windows.DependencyObject,DevExpress.Xpf.PdfViewer.PdfViewerControl)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="d">
+		 [To be supplied] 
+            </param>
+            <param name="value">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.SetPageNumberCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.SetZoomFactorCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.SetZoomModeCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ShowFindTextCommand">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ShowPropertiesCommand">
+            <summary>
+                <para>Invokes the <b>Properties</b> window that shows the document properties.
+
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.UseHandTool">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.UseHandToolProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="E:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomChanged">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomChangedEvent">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomFactor">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomFactorProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomInCommand">
+            <summary>
+                <para>Increases the zoom factor for the document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomMode">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomModeProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomOutCommand">
+            <summary>
+                <para>Decreases the zoom factor for the document.
+</para>
+            </summary>
+            <value>A command that implements the <see cref="T:System.Windows.Input.ICommand"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomProvider">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="F:DevExpress.Xpf.PdfViewer.PdfViewerControl.ZoomProviderProperty">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+    </members>
+</doc>

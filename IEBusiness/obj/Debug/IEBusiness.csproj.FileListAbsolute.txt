@@ -1,0 +1,16 @@
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\IEBusiness\bin\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\IEBusiness\bin\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\IEBusiness\obj\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\IEBusiness\obj\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\IEBusiness\obj\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\IEBusiness\obj\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\IEBusiness\obj\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\IEBusiness\obj\Debug\IEBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\IEBusiness\bin\Debug\IEBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\IEBusiness\bin\Debug\IEBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\IEBusiness\obj\Debug\IEBusiness.csproj.AssemblyReference.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\IEBusiness\obj\Debug\IEBusiness.Properties.Resources.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\IEBusiness\obj\Debug\IEBusiness.csproj.GenerateResource.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\IEBusiness\obj\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\IEBusiness\obj\Debug\IEBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\IEBusiness\obj\Debug\IEBusiness.pdb

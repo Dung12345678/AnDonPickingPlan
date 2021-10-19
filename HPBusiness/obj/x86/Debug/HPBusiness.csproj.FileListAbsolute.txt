@@ -1,0 +1,64 @@
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\bin\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\bin\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\bin\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\bin\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\HPBusiness\obj\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\HPBusiness\bin\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\HPBusiness\bin\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\HPBusiness\obj\x86\Debug\HPBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\HPBusiness\obj\x86\Debug\HPBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\HPBusiness\obj\x86\Debug\HPBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\HPBusiness\obj\x86\Debug\HPBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\HPBusiness\obj\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\HPBusiness\obj\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\HPBusiness\bin\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\HPBusiness\bin\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\HPBusiness\obj\x86\Debug\HPBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\HPBusiness\obj\x86\Debug\HPBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\HPBusiness\obj\x86\Debug\HPBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\HPBusiness\obj\x86\Debug\HPBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\HPBusiness\obj\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\HPBusiness\obj\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\bin\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\bin\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.pdb
+D:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\bin\x86\Debug\HPBusiness.dll
+D:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\bin\x86\Debug\HPBusiness.pdb
+D:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csproj.AssemblyReference.cache
+D:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.Properties.Resources.resources
+D:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csproj.GenerateResource.cache
+D:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csproj.CoreCompileInputs.cache
+D:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.dll
+D:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\bin\x86\Debug\HPBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\bin\x86\Debug\HPBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.Properties.Resources.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csproj.GenerateResource.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csproj.CoreCompileInputs.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\HPBusiness\obj\x86\Debug\HPBusiness.csproj.AssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\HPBusiness\bin\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\HPBusiness\bin\x86\Debug\HPBusiness.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\HPBusiness\obj\x86\Debug\HPBusiness.csproj.AssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\HPBusiness\obj\x86\Debug\HPBusiness.Properties.Resources.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\HPBusiness\obj\x86\Debug\HPBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\HPBusiness\obj\x86\Debug\HPBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\HPBusiness\obj\x86\Debug\HPBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\HPBusiness\obj\x86\Debug\HPBusiness.pdb

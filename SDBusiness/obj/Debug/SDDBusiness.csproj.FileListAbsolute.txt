@@ -1,0 +1,16 @@
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\SDBusiness\bin\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\SDBusiness\bin\Debug\SDBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\SDBusiness\obj\Debug\SDDBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\SDBusiness\obj\Debug\SDBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\SDBusiness\obj\Debug\SDDBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\SDBusiness\obj\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\SDBusiness\obj\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\SDBusiness\obj\Debug\SDBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\bin\Debug\SDBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\bin\Debug\SDBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\Debug\SDDBusiness.csproj.AssemblyReference.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\Debug\SDBusiness.Properties.Resources.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\Debug\SDDBusiness.csproj.GenerateResource.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\Debug\SDBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\Debug\SDBusiness.pdb

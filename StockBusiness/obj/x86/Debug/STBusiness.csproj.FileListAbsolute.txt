@@ -1,0 +1,907 @@
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Current\StockBusiness\obj\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\StockBusiness\obj\x86\Debug\STBusiness.pdb
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.csprojAssemblyReference.cache
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\PDE106 DATA\Desktop\PM\Project\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\StockBusiness\obj\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\STBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\StockBusiness\obj\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\STBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021-LineSuaHang\StockBusiness\obj\x86\Debug\STBusiness.pdb
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\STBusiness.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\STBusiness.pdb
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.csproj.AssemblyReference.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST._Forms.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\STBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\bin\x86\Debug\STBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST._Forms.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\StockBusiness\obj\x86\Debug\STBusiness.csproj.AssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\STBusiness.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraBars.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.RichEdit.v13.2.Core.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraTreeList.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.XtraLayout.v13.2.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\DevExpress.Office.v13.2.Core.xml
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\de\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\es\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ja\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\bin\x86\Debug\ru\DevExpress.Office.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\STBusiness.csproj.AssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\STBusiness.Properties.Resources.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\ST._Forms.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\ST._UserControls.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\ST.frmPopupBase.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\ST.frmPopupSearch.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\ST.PopupBox.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\ST.PopupBoxPublic.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\STBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\STBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\STBusiness.csproj.CopyComplete
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\STBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\StockBusiness\obj\x86\Debug\STBusiness.pdb

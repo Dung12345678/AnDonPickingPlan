@@ -1,0 +1,2146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B9622161-59BF-420D-A676-8CEFC7A14EB1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Forms</RootNamespace>
+    <AssemblyName>Forms</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeImaging, Version=1.0.5343.15106, Culture=neutral, PublicKeyToken=82bacb0497aa5fed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BMS\bin\x86\Debug\BarcodeImaging.dll</HintPath>
+    </Reference>
+    <Reference Include="complex">
+      <HintPath>..\BMS\bin\x86\Debug\complex.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\CrystalDecisions.Data.AdoDotNetInterop.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v13.2.Drawing, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.PdfViewer.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2.UI, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x86\Debug\DevExpress.XtraCharts.v13.2.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v13.2.Wizard, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v13.2.Extensions, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.2.UI, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v13.2.Extensions, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DriveInfoEx">
+      <HintPath>..\BMS\bin\x86\Debug\DriveInfoEx.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader">
+      <HintPath>C:\Users\No_Name\Desktop\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.7.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BMS\bin\x86\Debug\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MODI, Version=12.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\SumitomoBackup-13-01-2020\Forms\bin\x86\Debug\Interop.MODI.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSScriptControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\x86\Debug\Interop.MSScriptControl.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\SumitomoBackup-13-01-2020\Utilities\bin\x86\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\Microsoft Visual Studio 12.0\Visual Studio Tools for Office\PIA\Office15\Microsoft.Office.Interop.Outlook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Word\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="NotificationWindow">
+      <HintPath>..\BMS\bin\x86\Debug\NotificationWindow.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfToImage">
+      <HintPath>..\BMS\bin\x86\Debug\PdfToImage.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleLPR2">
+      <HintPath>..\BMS\bin\x86\Debug\SimpleLPR2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TPA.Serial Interface">
+      <HintPath>..\..\..\SumitomoBackup-13-01-2020\Utilities\bin\x86\Debug\TPA.Serial Interface.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Log\frmHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Log\frmHistory.designer.cs">
+      <DependentUpon>frmHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmPermission.Designer.cs">
+      <DependentUpon>frmPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmPermissionCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmPermissionCategory.designer.cs">
+      <DependentUpon>frmPermissionCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmPermissionGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmPermissionGroup.Designer.cs">
+      <DependentUpon>frmPermissionGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmPermissionManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmPermissionManager.Designer.cs">
+      <DependentUpon>frmPermissionManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmRole.Designer.cs">
+      <DependentUpon>frmRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmUserGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmUserGroup.designer.cs">
+      <DependentUpon>frmUserGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmUserGroupDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmUserGroupDetail.designer.cs">
+      <DependentUpon>frmUserGroupDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmUserGroupPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\QuyenHan\frmUserGroupPermission.designer.cs">
+      <DependentUpon>frmUserGroupPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\ANDON\frmExportAndon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\ANDON\frmExportAndon.Designer.cs">
+      <DependentUpon>frmExportAndon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\ConfigShipTo\frmConfigShipToDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\ConfigShipTo\frmConfigShipToDetail.Designer.cs">
+      <DependentUpon>frmConfigShipToDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\ConfigShipTo\frmConfigShipTo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\ConfigShipTo\frmConfigShipTo.Designer.cs">
+      <DependentUpon>frmConfigShipTo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmCopyStep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmCopyStep.Designer.cs">
+      <DependentUpon>frmCopyStep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmCopyWorkingToGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmCopyWorkingToGroup.Designer.cs">
+      <DependentUpon>frmCopyWorkingToGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductForceGunDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductForceGunDetail.Designer.cs">
+      <DependentUpon>frmProductForceGunDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductForceGunExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductForceGunExcel.Designer.cs">
+      <DependentUpon>frmProductForceGunExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductForceGun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductForceGun.Designer.cs">
+      <DependentUpon>frmProductForceGun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductPlanDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductPlanDetail.Designer.cs">
+      <DependentUpon>frmProductPlanDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\frmImportAssemblyDateExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\frmImportAssemblyDateExcel.Designer.cs">
+      <DependentUpon>frmImportAssemblyDateExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\frmImportProductPlanExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\frmImportProductPlanExcel.Designer.cs">
+      <DependentUpon>frmImportProductPlanExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\PCA\frmProductCheckHistoryDetailPCAAltax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\PCA\frmProductCheckHistoryDetailPCAAltax.Designer.cs">
+      <DependentUpon>frmProductCheckHistoryDetailPCAAltax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProductPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProductPlan.Designer.cs">
+      <DependentUpon>frmProductPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmHistoryCheckOrderDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmHistoryCheckOrderDetail.Designer.cs">
+      <DependentUpon>frmHistoryCheckOrderDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\SkipStep\frmImportSkipCDExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\SkipStep\frmImportSkipCDExcel.Designer.cs">
+      <DependentUpon>frmImportSkipCDExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\SkipStep\frmSkip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\SkipStep\frmSkip.Designer.cs">
+      <DependentUpon>frmSkip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\SkipStep\frmSkipDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\SkipStep\frmSkipDetails.Designer.cs">
+      <DependentUpon>frmSkipDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\ReduceSpeed\frmReduceSpeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\ReduceSpeed\frmReduceSpeed.Designer.cs">
+      <DependentUpon>frmReduceSpeed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\ReduceSpeed\frmReduceSpeedDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\ReduceSpeed\frmReduceSpeedDetail.Designer.cs">
+      <DependentUpon>frmReduceSpeedDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckMotor\frmCheckMotor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckMotor\frmCheckMotor.Designer.cs">
+      <DependentUpon>frmCheckMotor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckMotor\frmCheckMotorDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckMotor\frmCheckMotorDetails.Designer.cs">
+      <DependentUpon>frmCheckMotorDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Global\cGlobalFunction.cs" />
+    <Compile Include="Common\Global\cGlobalVariables.cs" />
+    <Compile Include="frmChooseBackupVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChooseBackupVersion.Designer.cs">
+      <DependentUpon>frmChooseBackupVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HYPMOLD\frmHypMold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HYPMOLD\frmHypMold.Designer.cs">
+      <DependentUpon>frmHypMold.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HYPMOLD\frmHypMoldDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HYPMOLD\frmHypMoldDetail.Designer.cs">
+      <DependentUpon>frmHypMoldDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HYPMOLD\frmHypMoldLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HYPMOLD\frmHypMoldLine.Designer.cs">
+      <DependentUpon>frmHypMoldLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\CheckHistoryDetail\frmHistoryCheckHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\CheckHistoryDetail\frmHistoryCheckHP.designer.cs">
+      <DependentUpon>frmHistoryCheckHP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\CheckHistoryDetail\frmHistoryCheckDetailHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\CheckHistoryDetail\frmHistoryCheckDetailHP.Designer.cs">
+      <DependentUpon>frmHistoryCheckDetailHP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\DungCuDo\frmAddEditTools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\DungCuDo\frmAddEditTools.Designer.cs">
+      <DependentUpon>frmAddEditTools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\frmAreaDepartHyp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\frmAreaDepartHyp.Designer.cs">
+      <DependentUpon>frmAreaDepartHyp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\frmImportToolExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\frmImportToolExcel.designer.cs">
+      <DependentUpon>frmImportToolExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\frmStageMachineHyp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\frmStageMachineHyp.Designer.cs">
+      <DependentUpon>frmStageMachineHyp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\GroupKnife\frmKnifeGroupDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\GroupKnife\frmKnifeGroupDetailH.Designer.cs">
+      <DependentUpon>frmKnifeGroupDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\GroupKnife\frmKnifeWorkingStepDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\GroupKnife\frmKnifeWorkingStepDetailH.Designer.cs">
+      <DependentUpon>frmKnifeWorkingStepDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\HypArea\frmAddEditAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\HypArea\frmAddEditAreas.Designer.cs">
+      <DependentUpon>frmAddEditAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\HypDepartment\frmAddEditDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\HypDepartment\frmAddEditDepartment.Designer.cs">
+      <DependentUpon>frmAddEditDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\HypMachine\frmAddEditMachineHyp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\HypMachine\frmAddEditMachineHyp.Designer.cs">
+      <DependentUpon>frmAddEditMachineHyp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\HypStageWorker\frmAddEditStageWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\HypStageWorker\frmAddEditStageWorker.Designer.cs">
+      <DependentUpon>frmAddEditStageWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\HypStageWorker\frmStageWorkerHyp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\HypStageWorker\frmStageWorkerHyp.Designer.cs">
+      <DependentUpon>frmStageWorkerHyp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\HypStage\frmAddEditStageHyp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\HypStage\frmAddEditStageHyp.Designer.cs">
+      <DependentUpon>frmAddEditStageHyp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmAddEditKnife.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmAddEditKnife.Designer.cs">
+      <DependentUpon>frmAddEditKnife.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeDisposed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeDisposed.Designer.cs">
+      <DependentUpon>frmKnifeDisposed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeList.Designer.cs">
+      <DependentUpon>frmKnifeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeProcessedChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeProcessedChart.Designer.cs">
+      <DependentUpon>frmKnifeProcessedChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeProcessedList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeProcessedList.Designer.cs">
+      <DependentUpon>frmKnifeProcessedList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeSharpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeSharpen.Designer.cs">
+      <DependentUpon>frmKnifeSharpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmKnifeCount.Designer.cs">
+      <DependentUpon>frmKnifeCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmImportKnifeCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoDao\frmImportKnifeCount.Designer.cs">
+      <DependentUpon>frmImportKnifeCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoJig\frmAddEditJig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoJig\frmAddEditJig.Designer.cs">
+      <DependentUpon>frmAddEditJig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoJig\frmJigList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoJig\frmJigList.Designer.cs">
+      <DependentUpon>frmJigList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoKhuon\frmShapeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoKhuon\frmShapeDetails.Designer.cs">
+      <DependentUpon>frmShapeDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoKhuon\frmShapeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KhoKhuon\frmShapeList.Designer.cs">
+      <DependentUpon>frmShapeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KinfeWorking\frmKnifeWorkingH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KinfeWorking\frmKnifeWorkingH.Designer.cs">
+      <DependentUpon>frmKnifeWorkingH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KinfeWorking\frmKnifeStepDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KinfeWorking\frmKnifeStepDetails.Designer.cs">
+      <DependentUpon>frmKnifeStepDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\KinfeWorking\frmKnifeWorkingDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\KinfeWorking\frmKnifeWorkingDetailH.Designer.cs">
+      <DependentUpon>frmKnifeWorkingDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\MaHang\frmEditGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\MaHang\frmEditGoods.Designer.cs">
+      <DependentUpon>frmEditGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\MaHang\frmGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\MaHang\frmGoods.Designer.cs">
+      <DependentUpon>frmGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\MaHang\frmImportGoodsRegisterExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\MaHang\frmImportGoodsRegisterExcel.Designer.cs">
+      <DependentUpon>frmImportGoodsRegisterExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\MaHang\frmImportGoodsExcelH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\MaHang\frmImportGoodsExcelH.designer.cs">
+      <DependentUpon>frmImportGoodsExcelH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\Register\frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\Register\frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\ChartDao\frmKnifeChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\ChartDao\frmKnifeChart.Designer.cs">
+      <DependentUpon>frmKnifeChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\ChartJig\frmJigChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\ChartJig\frmJigChart.Designer.cs">
+      <DependentUpon>frmJigChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Dao\frmKnifeInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Dao\frmKnifeInformation.Designer.cs">
+      <DependentUpon>frmKnifeInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\frmDataAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\frmDataAccess.Designer.cs">
+      <DependentUpon>frmDataAccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Jig\frmJigLineInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Jig\frmJigLineInformation.Designer.cs">
+      <DependentUpon>frmJigLineInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Khuon\frmHypMoldLineInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Khuon\frmHypMoldLineInformation.Designer.cs">
+      <DependentUpon>frmHypMoldLineInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Part\frmPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Part\frmPart.Designer.cs">
+      <DependentUpon>frmPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Part\frmPartDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\TruyXuatDataHyponion\Part\frmPartDetails.Designer.cs">
+      <DependentUpon>frmPartDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\Working\frmWorkingDaoJig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\Working\frmWorkingDaoJig.Designer.cs">
+      <DependentUpon>frmWorkingDaoJig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypoidPinion\Working\frmWorkingDaoJigDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypoidPinion\Working\frmWorkingDaoJigDetail.Designer.cs">
+      <DependentUpon>frmWorkingDaoJigDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\ANDON\frmExportAndonHyp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\ANDON\frmExportAndonHyp.Designer.cs">
+      <DependentUpon>frmExportAndonHyp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\frmImportAssemblyDateExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\frmImportAssemblyDateExcel.Designer.cs">
+      <DependentUpon>frmImportAssemblyDateExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\frmImportProductExcelH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\frmImportProductExcelH.designer.cs">
+      <DependentUpon>frmImportProductExcelH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\frmImportProductionPlanExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\frmImportProductionPlanExcel.Designer.cs">
+      <DependentUpon>frmImportProductionPlanExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\frmWeightDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\frmWeightDetail.Designer.cs">
+      <DependentUpon>frmWeightDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\frmweightJig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\frmweightJig.Designer.cs">
+      <DependentUpon>frmweightJig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmCopyGroupToGroupH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmCopyGroupToGroupH.Designer.cs">
+      <DependentUpon>frmCopyGroupToGroupH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmCopyWorkingToGroupH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmCopyWorkingToGroupH.Designer.cs">
+      <DependentUpon>frmCopyWorkingToGroupH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmCopyStepH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmCopyStepH.Designer.cs">
+      <DependentUpon>frmCopyStepH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProceductionPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProceductionPlan.Designer.cs">
+      <DependentUpon>frmProceductionPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductForceGunDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductForceGunDetailH.Designer.cs">
+      <DependentUpon>frmProductForceGunDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductForceGunExcelH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductForceGunExcelH.Designer.cs">
+      <DependentUpon>frmProductForceGunExcelH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductForceGunH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductForceGunH.Designer.cs">
+      <DependentUpon>frmProductForceGunH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductStepDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductStepDetailH.Designer.cs">
+      <DependentUpon>frmProductStepDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductWorkingDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductWorkingDetailH.Designer.cs">
+      <DependentUpon>frmProductWorkingDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductWorkingH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductWorkingH.Designer.cs">
+      <DependentUpon>frmProductWorkingH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmWorkingDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmWorkingDetailH.Designer.cs">
+      <DependentUpon>frmWorkingDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmWorkingH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmWorkingH.Designer.cs">
+      <DependentUpon>frmWorkingH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductionPlanDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmProductionPlanDetail.Designer.cs">
+      <DependentUpon>frmProductionPlanDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmWorkingStepDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\CheckList\frmWorkingStepDetailH.Designer.cs">
+      <DependentUpon>frmWorkingStepDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigFormula\frmConfigFormulaAllDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigFormula\frmConfigFormulaAllDetailH.Designer.cs">
+      <DependentUpon>frmConfigFormulaAllDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigFormula\frmConfigFormulaAllH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigFormula\frmConfigFormulaAllH.Designer.cs">
+      <DependentUpon>frmConfigFormulaAllH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigFormula\frmConfigFormulaDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigFormula\frmConfigFormulaDetailH.Designer.cs">
+      <DependentUpon>frmConfigFormulaDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigFormula\frmConfigFormulaCD5H.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigFormula\frmConfigFormulaCD5H.Designer.cs">
+      <DependentUpon>frmConfigFormulaCD5H.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigShipTo\frmConfigShipToDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigShipTo\frmConfigShipToDetailH.Designer.cs">
+      <DependentUpon>frmConfigShipToDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigShipTo\frmConfigShipToH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\ConfigShipTo\frmConfigShipToH.Designer.cs">
+      <DependentUpon>frmConfigShipToH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\PCA\frmProductCheckHistoryDetailPCA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\PCA\frmProductCheckHistoryDetailPCA.Designer.cs">
+      <DependentUpon>frmProductCheckHistoryDetailPCA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Product\frmProductDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Product\frmProductDetailH.Designer.cs">
+      <DependentUpon>frmProductDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Product\frmProductGroupDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Product\frmProductGroupDetailH.Designer.cs">
+      <DependentUpon>frmProductGroupDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Product\frmProductH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Product\frmProductH.Designer.cs">
+      <DependentUpon>frmProductH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Product\frmProductTypeH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Product\frmProductTypeH.Designer.cs">
+      <DependentUpon>frmProductTypeH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmFindDataCD1H.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmFindDataCD1H.designer.cs">
+      <DependentUpon>frmFindDataCD1H.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmHistoryCheckDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmHistoryCheckDetailH.designer.cs">
+      <DependentUpon>frmHistoryCheckDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmHistoryCheckH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmHistoryCheckH.designer.cs">
+      <DependentUpon>frmHistoryCheckH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmHistoryCheckOrderDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmHistoryCheckOrderDetailH.Designer.cs">
+      <DependentUpon>frmHistoryCheckOrderDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmThongKePhanTichDataH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\Report\frmThongKePhanTichDataH.designer.cs">
+      <DependentUpon>frmThongKePhanTichDataH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\frmProductWorkingAudit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\frmProductWorkingAudit.Designer.cs">
+      <DependentUpon>frmProductWorkingAudit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\SkipStep\frmImportSkipCDExcelH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\SkipStep\frmImportSkipCDExcelH.Designer.cs">
+      <DependentUpon>frmImportSkipCDExcelH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\SkipStep\frmSkipH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\SkipStep\frmSkipH.Designer.cs">
+      <DependentUpon>frmSkipH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\IOT\SkipStep\frmSkipDetailsH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\IOT\SkipStep\frmSkipDetailsH.Designer.cs">
+      <DependentUpon>frmSkipDetailsH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\ReduceSpeed\frmReduceSpeedDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\ReduceSpeed\frmReduceSpeedDetailH.Designer.cs">
+      <DependentUpon>frmReduceSpeedDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hyp\ReduceSpeed\frmReduceSpeedH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hyp\ReduceSpeed\frmReduceSpeedH.Designer.cs">
+      <DependentUpon>frmReduceSpeedH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\Day&amp;&amp;Gia\frmHistoryShelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\Day&amp;&amp;Gia\frmHistoryShelf.Designer.cs">
+      <DependentUpon>frmHistoryShelf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\Day&amp;&amp;Gia\frmSequence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\Day&amp;&amp;Gia\frmSequence.designer.cs">
+      <DependentUpon>frmSequence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\Day&amp;&amp;Gia\frmShelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\Day&amp;&amp;Gia\frmShelf.designer.cs">
+      <DependentUpon>frmShelf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\Day&amp;&amp;Gia\frmShelfDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\Day&amp;&amp;Gia\frmShelfDetail.designer.cs">
+      <DependentUpon>frmShelfDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\frmAddEditMotorPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\frmAddEditMotorPart.Designer.cs">
+      <DependentUpon>frmAddEditMotorPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\frmAddEditPositionList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\frmAddEditPositionList.Designer.cs">
+      <DependentUpon>frmAddEditPositionList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\frmMotorHistoryImEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\frmMotorHistoryImEx.Designer.cs">
+      <DependentUpon>frmMotorHistoryImEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\frmMotorImExPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\frmMotorImExPart.Designer.cs">
+      <DependentUpon>frmMotorImExPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\frmMotorPartDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\frmMotorPartDetails.Designer.cs">
+      <DependentUpon>frmMotorPartDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoMotor\frmMotorPartList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoMotor\frmMotorPartList.Designer.cs">
+      <DependentUpon>frmMotorPartList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmAddEditHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmAddEditHistory.Designer.cs">
+      <DependentUpon>frmAddEditHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmAddEditPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmAddEditPlan.Designer.cs">
+      <DependentUpon>frmAddEditPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmAddEditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmAddEditProduct.Designer.cs">
+      <DependentUpon>frmAddEditProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmImportExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmImportExcel.Designer.cs">
+      <DependentUpon>frmImportExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmImportExcelPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmImportExcelPart.Designer.cs">
+      <DependentUpon>frmImportExcelPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmPartImExHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmPartImExHistory.Designer.cs">
+      <DependentUpon>frmPartImExHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmProductListSON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmProductListSON.Designer.cs">
+      <DependentUpon>frmProductListSON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmSonLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmSonLoading.designer.cs">
+      <DependentUpon>frmSonLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\frmSonPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\frmSonPlan.Designer.cs">
+      <DependentUpon>frmSonPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmAssemblyOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmAssemblyOrder.Designer.cs">
+      <DependentUpon>frmAssemblyOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmAssemblyOrderDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmAssemblyOrderDetail.Designer.cs">
+      <DependentUpon>frmAssemblyOrderDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmHistoryPartOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmHistoryPartOut.Designer.cs">
+      <DependentUpon>frmHistoryPartOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmHistoryPartOutDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmHistoryPartOutDetail.designer.cs">
+      <DependentUpon>frmHistoryPartOutDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmImPortOrderPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\Kho\frmImPortOrderPart.Designer.cs">
+      <DependentUpon>frmImPortOrderPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\Kho\ShelfOrGood\frmImPortShelfAndGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\Kho\ShelfOrGood\frmImPortShelfAndGoods.Designer.cs">
+      <DependentUpon>frmImPortShelfAndGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\Kho\ShelfOrGood\frmShelfOrGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\Kho\ShelfOrGood\frmShelfOrGoods.Designer.cs">
+      <DependentUpon>frmShelfOrGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\Kho\ShelfOrGood\frmShelfOrGoodsDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\Kho\ShelfOrGood\frmShelfOrGoodsDetail.Designer.cs">
+      <DependentUpon>frmShelfOrGoodsDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\SonCD\frmSonCDDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\SonCD\frmSonCDDetails.Designer.cs">
+      <DependentUpon>frmSonCDDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\SonCD\frmSonCD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\SonCD\frmSonCD.Designer.cs">
+      <DependentUpon>frmSonCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmCD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmCD.Designer.cs">
+      <DependentUpon>frmCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmLocation.Designer.cs">
+      <DependentUpon>frmLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmLocationDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmLocationDetail.Designer.cs">
+      <DependentUpon>frmLocationDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmStockCDDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmStockCDDetails.Designer.cs">
+      <DependentUpon>frmStockCDDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmStockCD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoSon\StockCD\frmStockCD.Designer.cs">
+      <DependentUpon>frmStockCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineSuaHang\Error\frmError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineSuaHang\Error\frmError.Designer.cs">
+      <DependentUpon>frmError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineSuaHang\Error\frmErrorDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineSuaHang\Error\frmErrorDetail.Designer.cs">
+      <DependentUpon>frmErrorDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineSuaHang\frmHistoryRepairLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineSuaHang\frmHistoryRepairLine.designer.cs">
+      <DependentUpon>frmHistoryRepairLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineSuaHang\frmPartQRCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineSuaHang\frmPartQRCode.Designer.cs">
+      <DependentUpon>frmPartQRCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineSuaHang\frmPartQRCodeDetailH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineSuaHang\frmPartQRCodeDetailH.Designer.cs">
+      <DependentUpon>frmPartQRCodeDetailH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmReasonChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmReasonChange.Designer.cs">
+      <DependentUpon>frmReasonChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmReportTester.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmReportTester.Designer.cs">
+      <DependentUpon>frmReportTester.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmImportGearExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmImportGearExcel.Designer.cs">
+      <DependentUpon>frmImportGearExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmThongKePhanTichData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmThongKePhanTichData.designer.cs">
+      <DependentUpon>frmThongKePhanTichData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmFindDataCD1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmFindDataCD1.designer.cs">
+      <DependentUpon>frmFindDataCD1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmGearWorkingDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmGearWorkingDetail.Designer.cs">
+      <DependentUpon>frmGearWorkingDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmListOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmListOrder.Designer.cs">
+      <DependentUpon>frmListOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmPlanDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmPlanDetail.Designer.cs">
+      <DependentUpon>frmPlanDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmPlan.Designer.cs">
+      <DependentUpon>frmPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmGearInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmGearInfo.Designer.cs">
+      <DependentUpon>frmGearInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmHistoryCheckDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmHistoryCheckDetail.designer.cs">
+      <DependentUpon>frmHistoryCheckDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmHistoryCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Report\frmHistoryCheck.designer.cs">
+      <DependentUpon>frmHistoryCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmGear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmGear.Designer.cs">
+      <DependentUpon>frmGear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmGearDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmGearDetail.Designer.cs">
+      <DependentUpon>frmGearDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmScript.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScript.Designer.cs">
+      <DependentUpon>frmScript.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProductType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProductType.Designer.cs">
+      <DependentUpon>frmProductType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProductGroupDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProductGroupDetail.Designer.cs">
+      <DependentUpon>frmProductGroupDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModuleManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModuleManager.designer.cs">
+      <DependentUpon>frmModuleManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProductDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProductDetail.Designer.cs">
+      <DependentUpon>frmProductDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductWorking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductWorking.Designer.cs">
+      <DependentUpon>frmProductWorking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductWorkingDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductWorkingDetail.Designer.cs">
+      <DependentUpon>frmProductWorkingDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductStepDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmProductStepDetail.Designer.cs">
+      <DependentUpon>frmProductStepDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmImportProductExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmImportProductExcel.designer.cs">
+      <DependentUpon>frmImportProductExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowExcel.designer.cs">
+      <DependentUpon>frmShowExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmWorkingStepDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmWorkingStepDetail.Designer.cs">
+      <DependentUpon>frmWorkingStepDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmWorkingDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmWorkingDetail.Designer.cs">
+      <DependentUpon>frmWorkingDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\frmSharedControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\frmSharedControl.Designer.cs">
+      <DependentUpon>frmSharedControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\frmSendEmailAttach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\frmSendEmailAttach.Designer.cs">
+      <DependentUpon>frmSendEmailAttach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Config\frmConfigSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Config\frmConfigSystem.designer.cs">
+      <DependentUpon>frmConfigSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartment.Designer.cs">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\FrmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\FrmLoading.designer.cs">
+      <DependentUpon>FrmLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\frmCopyExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\frmCopyExcel.designer.cs">
+      <DependentUpon>frmCopyExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\frmSendMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\frmSendMail.Designer.cs">
+      <DependentUpon>frmSendMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\PagingToolbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Other\PagingToolbar.Designer.cs">
+      <DependentUpon>PagingToolbar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\Product\frmProduct.Designer.cs">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RefreshHelperClass.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Staffs\frmChooseEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staffs\frmChooseEmployee.designer.cs">
+      <DependentUpon>frmChooseEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staffs\frmShowStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staffs\frmShowStaff.designer.cs">
+      <DependentUpon>frmShowStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staffs\frmStaffGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staffs\frmStaffGroup.designer.cs">
+      <DependentUpon>frmStaffGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staffs\frmStaffManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staffs\frmStaffManager.designer.cs">
+      <DependentUpon>frmStaffManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\frmAppSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\frmAppSettings.Designer.cs">
+      <DependentUpon>frmAppSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Staffs\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staffs\frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmWorking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altax\IOT\CheckList\frmWorking.Designer.cs">
+      <DependentUpon>frmWorking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmGearWorking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmGearWorking.Designer.cs">
+      <DependentUpon>frmGearWorking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmStt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmStt.Designer.cs">
+      <DependentUpon>frmStt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testler\frmTestta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testler\frmTestta2.Designer.cs">
+      <DependentUpon>frmTestta2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\Log\frmHistory.resx">
+      <DependentUpon>frmHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\QuyenHan\frmPermission.resx">
+      <DependentUpon>frmPermission.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\QuyenHan\frmPermissionCategory.resx">
+      <DependentUpon>frmPermissionCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\QuyenHan\frmPermissionGroup.resx">
+      <DependentUpon>frmPermissionGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\QuyenHan\frmPermissionManager.resx">
+      <DependentUpon>frmPermissionManager.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\QuyenHan\frmRole.resx">
+      <DependentUpon>frmRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\QuyenHan\frmUserGroup.resx">
+      <DependentUpon>frmUserGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\QuyenHan\frmUserGroupDetail.resx">
+      <DependentUpon>frmUserGroupDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\QuyenHan\frmUserGroupPermission.resx">
+      <DependentUpon>frmUserGroupPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\ANDON\frmExportAndon.resx">
+      <DependentUpon>frmExportAndon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\ConfigShipTo\frmConfigShipToDetail.resx">
+      <DependentUpon>frmConfigShipToDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\ConfigShipTo\frmConfigShipTo.resx">
+      <DependentUpon>frmConfigShipTo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmCopyStep.resx">
+      <DependentUpon>frmCopyStep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmCopyWorkingToGroup.resx">
+      <DependentUpon>frmCopyWorkingToGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmProductForceGunDetail.resx">
+      <DependentUpon>frmProductForceGunDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmProductForceGunExcel.resx">
+      <DependentUpon>frmProductForceGunExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmProductForceGun.resx">
+      <DependentUpon>frmProductForceGun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmProductPlanDetail.resx">
+      <DependentUpon>frmProductPlanDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\frmImportAssemblyDateExcel.resx">
+      <DependentUpon>frmImportAssemblyDateExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\frmImportProductPlanExcel.resx">
+      <DependentUpon>frmImportProductPlanExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\PCA\frmProductCheckHistoryDetailPCAAltax.resx">
+      <DependentUpon>frmProductCheckHistoryDetailPCAAltax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Product\frmProductPlan.resx">
+      <DependentUpon>frmProductPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Report\frmHistoryCheckOrderDetail.resx">
+      <DependentUpon>frmHistoryCheckOrderDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\SkipStep\frmImportSkipCDExcel.resx">
+      <DependentUpon>frmImportSkipCDExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\SkipStep\frmSkip.resx">
+      <DependentUpon>frmSkip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\SkipStep\frmSkipDetails.resx">
+      <DependentUpon>frmSkipDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\ReduceSpeed\frmReduceSpeed.resx">
+      <DependentUpon>frmReduceSpeed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\ReduceSpeed\frmReduceSpeedDetail.resx">
+      <DependentUpon>frmReduceSpeedDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckMotor\frmCheckMotor.resx">
+      <DependentUpon>frmCheckMotor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckMotor\frmCheckMotorDetails.resx">
+      <DependentUpon>frmCheckMotorDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChooseBackupVersion.resx">
+      <DependentUpon>frmChooseBackupVersion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HYPMOLD\frmHypMold.resx">
+      <DependentUpon>frmHypMold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HYPMOLD\frmHypMoldDetail.resx">
+      <DependentUpon>frmHypMoldDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HYPMOLD\frmHypMoldLine.resx">
+      <DependentUpon>frmHypMoldLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\CheckHistoryDetail\frmHistoryCheckHP.resx">
+      <DependentUpon>frmHistoryCheckHP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\CheckHistoryDetail\frmHistoryCheckDetailHP.resx">
+      <DependentUpon>frmHistoryCheckDetailHP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\DungCuDo\frmAddEditTools.resx">
+      <DependentUpon>frmAddEditTools.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\frmAreaDepartHyp.resx">
+      <DependentUpon>frmAreaDepartHyp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\frmImportToolExcel.resx">
+      <DependentUpon>frmImportToolExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\frmStageMachineHyp.resx">
+      <DependentUpon>frmStageMachineHyp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\GroupKnife\frmKnifeGroupDetailH.resx">
+      <DependentUpon>frmKnifeGroupDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\GroupKnife\frmKnifeWorkingStepDetailH.resx">
+      <DependentUpon>frmKnifeWorkingStepDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\HypArea\frmAddEditAreas.resx">
+      <DependentUpon>frmAddEditAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\HypDepartment\frmAddEditDepartment.resx">
+      <DependentUpon>frmAddEditDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\HypMachine\frmAddEditMachineHyp.resx">
+      <DependentUpon>frmAddEditMachineHyp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\HypStageWorker\frmAddEditStageWorker.resx">
+      <DependentUpon>frmAddEditStageWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\HypStageWorker\frmStageWorkerHyp.resx">
+      <DependentUpon>frmStageWorkerHyp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\HypStage\frmAddEditStageHyp.resx">
+      <DependentUpon>frmAddEditStageHyp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoDao\frmAddEditKnife.resx">
+      <DependentUpon>frmAddEditKnife.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoDao\frmKnifeDisposed.resx">
+      <DependentUpon>frmKnifeDisposed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoDao\frmKnifeList.resx">
+      <DependentUpon>frmKnifeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoDao\frmKnifeProcessedChart.resx">
+      <DependentUpon>frmKnifeProcessedChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoDao\frmKnifeProcessedList.resx">
+      <DependentUpon>frmKnifeProcessedList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoDao\frmKnifeSharpen.resx">
+      <DependentUpon>frmKnifeSharpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoDao\frmKnifeCount.resx">
+      <DependentUpon>frmKnifeCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoDao\frmImportKnifeCount.resx">
+      <DependentUpon>frmImportKnifeCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoJig\frmAddEditJig.resx">
+      <DependentUpon>frmAddEditJig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoJig\frmJigList.resx">
+      <DependentUpon>frmJigList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoKhuon\frmShapeDetails.resx">
+      <DependentUpon>frmShapeDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KhoKhuon\frmShapeList.resx">
+      <DependentUpon>frmShapeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KinfeWorking\frmKnifeWorkingH.resx">
+      <DependentUpon>frmKnifeWorkingH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KinfeWorking\frmKnifeStepDetails.resx">
+      <DependentUpon>frmKnifeStepDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\KinfeWorking\frmKnifeWorkingDetailH.resx">
+      <DependentUpon>frmKnifeWorkingDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\MaHang\frmEditGoods.resx">
+      <DependentUpon>frmEditGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\MaHang\frmGoods.resx">
+      <DependentUpon>frmGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\MaHang\frmImportGoodsRegisterExcel.resx">
+      <DependentUpon>frmImportGoodsRegisterExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\MaHang\frmImportGoodsExcelH.resx">
+      <DependentUpon>frmImportGoodsExcelH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\Register\frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\TruyXuatDataHyponion\ChartDao\frmKnifeChart.resx">
+      <DependentUpon>frmKnifeChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\TruyXuatDataHyponion\ChartJig\frmJigChart.resx">
+      <DependentUpon>frmJigChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\TruyXuatDataHyponion\Dao\frmKnifeInformation.resx">
+      <DependentUpon>frmKnifeInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\TruyXuatDataHyponion\frmDataAccess.resx">
+      <DependentUpon>frmDataAccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\TruyXuatDataHyponion\Jig\frmJigLineInformation.resx">
+      <DependentUpon>frmJigLineInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\TruyXuatDataHyponion\Khuon\frmHypMoldLineInformation.resx">
+      <DependentUpon>frmHypMoldLineInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\TruyXuatDataHyponion\Part\frmPart.resx">
+      <DependentUpon>frmPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\TruyXuatDataHyponion\Part\frmPartDetails.resx">
+      <DependentUpon>frmPartDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\Working\frmWorkingDaoJig.resx">
+      <DependentUpon>frmWorkingDaoJig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypoidPinion\Working\frmWorkingDaoJigDetail.resx">
+      <DependentUpon>frmWorkingDaoJigDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\ANDON\frmExportAndonHyp.resx">
+      <DependentUpon>frmExportAndonHyp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\frmImportAssemblyDateExcel.resx">
+      <DependentUpon>frmImportAssemblyDateExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\frmImportProductExcelH.resx">
+      <DependentUpon>frmImportProductExcelH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\frmImportProductionPlanExcel.resx">
+      <DependentUpon>frmImportProductionPlanExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\frmWeightDetail.resx">
+      <DependentUpon>frmWeightDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\frmweightJig.resx">
+      <DependentUpon>frmweightJig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmCopyGroupToGroupH.resx">
+      <DependentUpon>frmCopyGroupToGroupH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmCopyWorkingToGroupH.resx">
+      <DependentUpon>frmCopyWorkingToGroupH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmCopyStepH.resx">
+      <DependentUpon>frmCopyStepH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmProceductionPlan.resx">
+      <DependentUpon>frmProceductionPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmProductForceGunDetailH.resx">
+      <DependentUpon>frmProductForceGunDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmProductForceGunExcelH.resx">
+      <DependentUpon>frmProductForceGunExcelH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmProductForceGunH.resx">
+      <DependentUpon>frmProductForceGunH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmProductStepDetailH.resx">
+      <DependentUpon>frmProductStepDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmProductWorkingDetailH.resx">
+      <DependentUpon>frmProductWorkingDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmProductWorkingH.resx">
+      <DependentUpon>frmProductWorkingH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmWorkingDetailH.resx">
+      <DependentUpon>frmWorkingDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmWorkingH.resx">
+      <DependentUpon>frmWorkingH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmProductionPlanDetail.resx">
+      <DependentUpon>frmProductionPlanDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\CheckList\frmWorkingStepDetailH.resx">
+      <DependentUpon>frmWorkingStepDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\ConfigFormula\frmConfigFormulaAllDetailH.resx">
+      <DependentUpon>frmConfigFormulaAllDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\ConfigFormula\frmConfigFormulaAllH.resx">
+      <DependentUpon>frmConfigFormulaAllH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\ConfigFormula\frmConfigFormulaDetailH.resx">
+      <DependentUpon>frmConfigFormulaDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\ConfigFormula\frmConfigFormulaCD5H.resx">
+      <DependentUpon>frmConfigFormulaCD5H.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\ConfigShipTo\frmConfigShipToDetailH.resx">
+      <DependentUpon>frmConfigShipToDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\ConfigShipTo\frmConfigShipToH.resx">
+      <DependentUpon>frmConfigShipToH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\PCA\frmProductCheckHistoryDetailPCA.resx">
+      <DependentUpon>frmProductCheckHistoryDetailPCA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Product\frmProductDetailH.resx">
+      <DependentUpon>frmProductDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Product\frmProductGroupDetailH.resx">
+      <DependentUpon>frmProductGroupDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Product\frmProductH.resx">
+      <DependentUpon>frmProductH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Product\frmProductTypeH.resx">
+      <DependentUpon>frmProductTypeH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Report\frmFindDataCD1H.resx">
+      <DependentUpon>frmFindDataCD1H.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Report\frmHistoryCheckDetailH.resx">
+      <DependentUpon>frmHistoryCheckDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Report\frmHistoryCheckH.resx">
+      <DependentUpon>frmHistoryCheckH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Report\frmHistoryCheckOrderDetailH.resx">
+      <DependentUpon>frmHistoryCheckOrderDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\Report\frmThongKePhanTichDataH.resx">
+      <DependentUpon>frmThongKePhanTichDataH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\frmProductWorkingAudit.resx">
+      <DependentUpon>frmProductWorkingAudit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\SkipStep\frmImportSkipCDExcelH.resx">
+      <DependentUpon>frmImportSkipCDExcelH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\SkipStep\frmSkipH.resx">
+      <DependentUpon>frmSkipH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\IOT\SkipStep\frmSkipDetailsH.resx">
+      <DependentUpon>frmSkipDetailsH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\ReduceSpeed\frmReduceSpeedDetailH.resx">
+      <DependentUpon>frmReduceSpeedDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hyp\ReduceSpeed\frmReduceSpeedH.resx">
+      <DependentUpon>frmReduceSpeedH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\Day&amp;&amp;Gia\frmHistoryShelf.resx">
+      <DependentUpon>frmHistoryShelf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\Day&amp;&amp;Gia\frmSequence.resx">
+      <DependentUpon>frmSequence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\Day&amp;&amp;Gia\frmShelf.resx">
+      <DependentUpon>frmShelf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\Day&amp;&amp;Gia\frmShelfDetail.resx">
+      <DependentUpon>frmShelfDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\frmAddEditMotorPart.resx">
+      <DependentUpon>frmAddEditMotorPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\frmAddEditPositionList.resx">
+      <DependentUpon>frmAddEditPositionList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\frmMotorHistoryImEx.resx">
+      <DependentUpon>frmMotorHistoryImEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\frmMotorImExPart.resx">
+      <DependentUpon>frmMotorImExPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\frmMotorPartDetails.resx">
+      <DependentUpon>frmMotorPartDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoMotor\frmMotorPartList.resx">
+      <DependentUpon>frmMotorPartList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmAddEditHistory.resx">
+      <DependentUpon>frmAddEditHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmAddEditPlan.resx">
+      <DependentUpon>frmAddEditPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmAddEditProduct.resx">
+      <DependentUpon>frmAddEditProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmImportExcel.resx">
+      <DependentUpon>frmImportExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmImportExcelPart.resx">
+      <DependentUpon>frmImportExcelPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmPartImExHistory.resx">
+      <DependentUpon>frmPartImExHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmProductListSON.resx">
+      <DependentUpon>frmProductListSON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmSonLoading.resx">
+      <DependentUpon>frmSonLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\frmSonPlan.resx">
+      <DependentUpon>frmSonPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\Kho\frmAssemblyOrder.resx">
+      <DependentUpon>frmAssemblyOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\Kho\frmAssemblyOrderDetail.resx">
+      <DependentUpon>frmAssemblyOrderDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\Kho\frmHistoryPartOut.resx">
+      <DependentUpon>frmHistoryPartOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\Kho\frmHistoryPartOutDetail.resx">
+      <DependentUpon>frmHistoryPartOutDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\Kho\frmImPortOrderPart.resx">
+      <DependentUpon>frmImPortOrderPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\Kho\ShelfOrGood\frmImPortShelfAndGoods.resx">
+      <DependentUpon>frmImPortShelfAndGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\Kho\ShelfOrGood\frmShelfOrGoods.resx">
+      <DependentUpon>frmShelfOrGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\Kho\ShelfOrGood\frmShelfOrGoodsDetail.resx">
+      <DependentUpon>frmShelfOrGoodsDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\SonCD\frmSonCDDetails.resx">
+      <DependentUpon>frmSonCDDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\SonCD\frmSonCD.resx">
+      <DependentUpon>frmSonCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\StockCD\frmCD.resx">
+      <DependentUpon>frmCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\StockCD\frmLocation.resx">
+      <DependentUpon>frmLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\StockCD\frmLocationDetail.resx">
+      <DependentUpon>frmLocationDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\StockCD\frmStockCDDetails.resx">
+      <DependentUpon>frmStockCDDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoSon\StockCD\frmStockCD.resx">
+      <DependentUpon>frmStockCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineSuaHang\Error\frmError.resx">
+      <DependentUpon>frmError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineSuaHang\Error\frmErrorDetail.resx">
+      <DependentUpon>frmErrorDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineSuaHang\frmHistoryRepairLine.resx">
+      <DependentUpon>frmHistoryRepairLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineSuaHang\frmPartQRCode.resx">
+      <DependentUpon>frmPartQRCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineSuaHang\frmPartQRCodeDetailH.resx">
+      <DependentUpon>frmPartQRCodeDetailH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Testler\frmReasonChange.resx">
+      <DependentUpon>frmReasonChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmReportTester.resx">
+      <DependentUpon>frmReportTester.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmImportGearExcel.resx">
+      <DependentUpon>frmImportGearExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Report\frmThongKePhanTichData.resx">
+      <DependentUpon>frmThongKePhanTichData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Report\frmFindDataCD1.resx">
+      <DependentUpon>frmFindDataCD1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmGearWorking.resx">
+      <DependentUpon>frmGearWorking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmGearWorkingDetail.resx">
+      <DependentUpon>frmGearWorkingDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmListOrder.resx">
+      <DependentUpon>frmListOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmPlanDetail.resx">
+      <DependentUpon>frmPlanDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmPlan.resx">
+      <DependentUpon>frmPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmGearInfo.resx">
+      <DependentUpon>frmGearInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Report\frmHistoryCheckDetail.resx">
+      <DependentUpon>frmHistoryCheckDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Report\frmHistoryCheck.resx">
+      <DependentUpon>frmHistoryCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmGear.resx">
+      <DependentUpon>frmGear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmGearDetail.resx">
+      <DependentUpon>frmGearDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScript.resx">
+      <DependentUpon>frmScript.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Product\frmProductType.resx">
+      <DependentUpon>frmProductType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Product\frmProductGroupDetail.resx">
+      <DependentUpon>frmProductGroupDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModuleManager.resx">
+      <DependentUpon>frmModuleManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmProductWorking.resx">
+      <DependentUpon>frmProductWorking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Product\frmImportProductExcel.resx">
+      <DependentUpon>frmImportProductExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowExcel.resx">
+      <DependentUpon>frmShowExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmWorking.resx">
+      <DependentUpon>frmWorking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Product\frmProductDetail.resx">
+      <DependentUpon>frmProductDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmProductWorkingDetail.resx">
+      <DependentUpon>frmProductWorkingDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmProductStepDetail.resx">
+      <DependentUpon>frmProductStepDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmWorkingStepDetail.resx">
+      <DependentUpon>frmWorkingStepDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\CheckList\frmWorkingDetail.resx">
+      <DependentUpon>frmWorkingDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\frmSharedControl.resx">
+      <DependentUpon>frmSharedControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\frmSendEmailAttach.resx">
+      <DependentUpon>frmSendEmailAttach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Config\frmConfigSystem.resx">
+      <DependentUpon>frmConfigSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\FrmLoading.resx">
+      <DependentUpon>FrmLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\frmCopyExcel.resx">
+      <DependentUpon>frmCopyExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\frmSendMail.resx">
+      <DependentUpon>frmSendMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\PagingToolbar.resx">
+      <DependentUpon>PagingToolbar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altax\IOT\Product\frmProduct.resx">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffs\frmChooseEmployee.resx">
+      <DependentUpon>frmChooseEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffs\frmShowStaff.resx">
+      <DependentUpon>frmShowStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffs\frmStaffGroup.resx">
+      <DependentUpon>frmStaffGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffs\frmStaffManager.resx">
+      <DependentUpon>frmStaffManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\frmAppSettings.resx">
+      <DependentUpon>frmAppSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffs\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmStt.resx">
+      <DependentUpon>frmStt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testler\frmTestta2.resx">
+      <DependentUpon>frmTestta2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BaseBusiness\BaseBusiness.csproj">
+      <Project>{059AE159-539C-41C2-B62B-5C246731BD48}</Project>
+      <Name>BaseBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPBusiness\HPBusiness.csproj">
+      <Project>{da71e29f-e5ad-4190-997b-385d342d2817}</Project>
+      <Name>HPBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IEBusiness\IEBusiness.csproj">
+      <Project>{0125e90c-0b73-46b5-9613-82abc5486d5c}</Project>
+      <Name>IEBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDBusiness\SDDBusiness.csproj">
+      <Project>{c1eb4993-e2ce-44c6-aade-4f40c4932533}</Project>
+      <Name>SDDBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockBusiness\STBusiness.csproj">
+      <Project>{55294c93-cb4c-4d15-89c3-009a737cc91a}</Project>
+      <Name>STBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilities\Utilities.csproj">
+      <Project>{696afdd3-6160-42fa-93ac-cbdbfe97233f}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

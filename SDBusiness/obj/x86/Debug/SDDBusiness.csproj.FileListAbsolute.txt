@@ -1,0 +1,56 @@
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDDBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\bin\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\bin\x86\Debug\SDBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current1\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\bin\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\bin\x86\Debug\SDBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDDBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Dao-Jig\SDBusiness\obj\x86\Debug\SDBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\SDBusiness\bin\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\SDBusiness\bin\x86\Debug\SDBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\SDBusiness\obj\x86\Debug\SDDBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\SDBusiness\obj\x86\Debug\SDBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\SDBusiness\obj\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-15-05-2021 - Copy\SDBusiness\obj\x86\Debug\SDBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\SDBusiness\bin\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\SDBusiness\bin\x86\Debug\SDBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\SDBusiness\obj\x86\Debug\SDDBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\SDBusiness\obj\x86\Debug\SDBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\SDBusiness\obj\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-09-08-2021\SDBusiness\obj\x86\Debug\SDBusiness.pdb
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\bin\x86\Debug\SDBusiness.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\bin\x86\Debug\SDBusiness.pdb
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.AssemblyReference.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDBusiness.Properties.Resources.resources
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.GenerateResource.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDBusiness.dll
+C:\Users\tuana\OneDrive\Máy tính\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\bin\x86\Debug\SDBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\bin\x86\Debug\SDBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDBusiness.Properties.Resources.resources
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.GenerateResource.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDBusiness.dll
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDBusiness.pdb
+C:\RTC\Sumitomo\SumitomoBackup-09-08-2021-LineSuaHang-Dev20\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.AssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\SDBusiness\bin\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\SDBusiness\bin\x86\Debug\SDBusiness.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.AssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\SDBusiness\obj\x86\Debug\SDBusiness.Properties.Resources.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\SDBusiness\obj\x86\Debug\SDDBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\SDBusiness\obj\x86\Debug\SDBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\Biểu đồ plan\AnDonPickingPlan\SDBusiness\obj\x86\Debug\SDBusiness.pdb
